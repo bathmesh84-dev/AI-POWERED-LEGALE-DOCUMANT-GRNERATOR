@@ -1,0 +1,10 @@
+Requirement Analysis – Identify the project requirements, features, and user needs.
+Environment Setup – Install Python, FastAPI, Streamlit, Gemini API libraries, and other required packages.
+Backend Development – Develop the backend using FastAPI to handle API requests and application logic.
+AI Integration – Integrate the Google Gemini API to provide AI-powered functionality.
+Frontend Development – Create the user interface using Streamlit.
+Document Processing – Use Python libraries such as python-docx, FPDF, and Pillow for document and file processing.
+Testing – Test the application to identify and fix errors and ensure that all features work correctly.
+Integration – Connect the frontend, backend, and Gemini AI components into a complete application.
+Final Deployment – Run and deploy the completed application for users.
+Maintenance – Monitor the application and make improvements or fixes when required.
