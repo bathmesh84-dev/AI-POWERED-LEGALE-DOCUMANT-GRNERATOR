@@ -1,18 +1,21 @@
-fastapi
-uvicorn
-streamlit
-python-docx
-fpdf
-Pillow
-requests
-google-generativeai
-python-dotenv 
-pip install -r requirements.txt
-your-project/
-│
-├── app.py
-├── frontend.py
-├── requirements.txt
-├── .env
-└── README.md
-GEMINI_API_KEY=your_api_key_here
+# AI-Powered Legal Document Generator
+
+An AI-powered application that helps users generate legal documents using Google Gemini API.
+
+## Technologies Used
+
+- Python
+- FastAPI
+- Streamlit
+- Google Gemini API
+- Python-docx
+- FPDF
+- Pillow
+
+## Features
+
+- AI-powered legal document generation
+- User-friendly Streamlit interface
+- FastAPI backend
+- Document generation in downloadable formats
+- Gemini API integration
